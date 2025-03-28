@@ -1,0 +1,83 @@
+.container {
+    background-image: url('240_F_1043412655_sVQndBSxEuMcuLukXwXiHFJixdkJHAKn.jpg');
+    background-size: cover;
+
+}
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.main-container {
+    font-family: "Roboto";
+    background-image: url(artificial-intelligence-circuit-electric-line-600nw-2465096659.webp);
+    background-size: cover;
+    height: 100vh;
+    
+}
+
+.img-ai {
+    height: 50px;
+    width: 50px;
+    background-size: cover;
+    margin: 20px;
+}
+.wiki-search-header {
+    border-width: 0px;
+    border-style: solid;
+    border-color: #d5cdcd;
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    margin-bottom: 40px;
+
+}
+
+.wiki-logo {
+    margin-bottom: 30px;
+    width: 150px;
+}
+
+.search-input {
+    border-radius: 3px;
+    padding: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #d5cdcd;
+    font-size: 18px;
+    width: 50%;
+    background-color: rgb(233, 198, 198);
+    color: black;
+    border: rgb(94, 160, 222) solid 2px;    
+}
+.search-results {
+    width: 100%;
+    padding-left: 20px;
+    background:linear-gradient(to left, rgb(177, 100, 157),rgb(143, 213, 237));
+    text-align: center;
+}
+
+.result-item {
+    margin-bottom: 20px;
+}
+
+.result-title {
+    font-size: 22px;
+}
+
+.link-description {
+    font-size: 15px;
+    color: #444444;
+}
+
+.result-url {
+    color: #006621;
+    text-decoration: none;
+}
+.ai{
+    color: gold;
+    text-align: center;
+    font-family: Catholic center;
+    font-weight: bold;
+}
+
+.url {
+    color: black;
+}
